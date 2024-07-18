@@ -1,0 +1,17 @@
+* {
+    background-color: rgb(214 225 240)
+    
+}
+
+img {
+    
+}
+
+.titulo {
+    font-size: 16px;
+    text-align: center;
+}
+
+.descricao {
+    color: hsl(228, 45%, 44%) 
+}
